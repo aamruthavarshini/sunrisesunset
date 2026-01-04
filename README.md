@@ -1,1 +1,1 @@
-# sunrisesunset
+This project is a Sunrise and Sunset Detector built using Spring Boot. It fetches real-time sunrise and sunset times based on a given location and provides a simple API to access this information. The application is designed for easy integration with other services and can be extended to include notifications, visualizations, or location-based scheduling. It serves as a lightweight, reliable tool for developers and enthusiasts interested in astronomical data.# sunrisesunset
